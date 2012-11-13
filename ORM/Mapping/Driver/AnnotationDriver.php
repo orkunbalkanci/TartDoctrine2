@@ -25,7 +25,7 @@ use Doctrine\Common\Cache\ArrayCache,
     Doctrine\ORM\Mapping\ClassMetadataInfo,
     Doctrine\ORM\Mapping\MappingException;
 
-require __DIR__ . '/DoctrineAnnotations.php';
+//require __DIR__ . '/DoctrineAnnotations.php';
 
 /**
  * The AnnotationDriver reads the mapping metadata from docblock annotations.
